@@ -1,0 +1,5 @@
+1. A user can buy more than 1 product in 1 login attempt.
+2. With the high number of purchases some products may go out of stock/unavailable.
+3. Product IDs are limited to a range, therefore there could be invalid product IDs.
+
+
